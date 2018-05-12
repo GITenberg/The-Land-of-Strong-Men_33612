@@ -1,0 +1,37 @@
+_repo: The-Land-of-Strong-Men_33612
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Johnson, Frank Tenney
+    alias: Johnson, F. Tenney
+    birthdate: 1874
+    deathdate: 1939
+    gutenberg_agent_id: '6781'
+    url: http://www.gutenberg.org/2009/agents/6781
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Tenney_Johnson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chisholm, A. M. (Arthur Murray)
+    alias: Chisholm, Arthur Murray
+    birthdate: 1872
+    deathdate: 1960
+    gutenberg_agent_id: '31535'
+    url: http://www.gutenberg.org/2009/agents/31535
+description: ''
+gutenberg_issued: '2010-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+title: The Land of Strong Men
+url: http://www.gutenberg.org/ebooks/33612
